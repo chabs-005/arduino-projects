@@ -13,7 +13,7 @@ An ultrasonic-based parking assistance system that helps drivers park safely by 
 - Buzzer alerts with variable frequency
 - Compact and portable design
 
-**Technologies:** Arduino, Ultrasonic Sensor (HC-SR04), LEDs, Buzzer
+**Technologies:** Arduino, Ultrasonic Sensor (HC-SR04), LED, Buzzer
 
 ---
 
